@@ -1,2 +1,2 @@
 # university-task-tracker-pet-
-Pet project? first one, test.
+A task tracking system for university students
