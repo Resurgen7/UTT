@@ -1,2 +1,2 @@
-# university-task-tracker-pet-
-A task tracking system for university students
+# UTT (university-task-tracker)
+A task tracking system for university students/
