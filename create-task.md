@@ -1,12 +1,12 @@
 # Create task
 
-##Actor
+## Actor
 Клиент (Браузер)
 
-##Predictions
+## Predictions
 Должны совпадать: дата и время...
 
-##Main flow
+## Main flow
 1) Запрос от клиента на создание/изменение базы данных:
 ```http
 POST /tasks HTTP/1.1
