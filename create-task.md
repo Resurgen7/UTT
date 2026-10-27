@@ -22,7 +22,7 @@ Content-Type: application/json
 
 2) Проверка и применение изменений/ответ, запрашиваемый клиентом
 
-3)Ответ сервера запрос клиента:
+3) Ответ сервера запрос клиента:
 ```http
 HTTP/1.1 201 ACCEPTED
 Content-Type: application/json
