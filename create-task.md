@@ -8,7 +8,7 @@
 
 ##Main flow
 1) Запрос от клиента на создание/изменение базы данных:
-(```http
+```http
 POST /tasks HTTP/1.1
 Host: UTT.example.com
 Content-Type: application/json
@@ -18,12 +18,12 @@ Content-Type: application/json
   "title": "Лабораторная работа № 1",
   "status": "in_progress",
 }
-```)
+```
 
 2) Проверка и применение изменений/ответ, запрашиваемый клиентом
 
 3)Ответ сервера запрос клиента:
-(```http
+```http
 HTTP/1.1 201 ACCEPTED
 Content-Type: application/json
 ```
@@ -33,7 +33,7 @@ Content-Type: application/json
   "title": "Лабораторная работа № 1",
   "status": "in_progress",
 }
-```)
+```
 
 ## Alternative flows
 ### Empty title
